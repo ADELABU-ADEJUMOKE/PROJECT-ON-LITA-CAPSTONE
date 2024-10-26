@@ -1,6 +1,10 @@
-# PROJECT-ON-POWERBI
+## PROJECT-ON-POWERBI
 
-### **DATA TABLE ANALYSIS FOR SALES DATA**: 
+ [TABLE ANALYSIS FOR SALES DATA](SALES DATA)
+
+ [TABLE ANALYSIS FOR CUSTOMER DATA](CUSTOMER DATA)
+
+### **TABLE ANALYSIS FOR SALES DATA**: 
 
 ### ***Data Structure and Columns***
 
@@ -72,7 +76,7 @@ around ***April 2024*** and unit price seems to have a substsantial impact on th
 ---
 
 
-### ***DATA TABLE ANALYSIS FOR CUSTOMER DATA***: 
+### ***TABLE ANALYSIS FOR CUSTOMER DATA***: 
 
 ### ***Visualization explanation***:
 
