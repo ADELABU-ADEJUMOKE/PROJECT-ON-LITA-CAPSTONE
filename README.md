@@ -1,6 +1,6 @@
 # PROJECT-ON-POWERBI
 
-## **DATA TABLE ANALYSIS FOR SALES DATA**: 
+### **DATA TABLE ANALYSIS FOR SALES DATA**: 
 
 ### ***Data Structure and Columns***
 
@@ -32,7 +32,7 @@
   
    ### ***Key Observations***:
   - The **North** region has the highesr total sales at ***$927,820*** followed by South at ***$546,300***.
-  - ***Socks*** and ***Shirts*** are the top selling items with total sales of $180,765 and ***$485,605*** respectively.
+  - ***Socks*** and ***Shirts*** are the top selling items with total sales of ***$180,765*** and ***$485,605*** respectively.
   - The ***West*** region shows the Lowest contribution overall, with products like ***Gloves*** and ***Socks*** having minimal sales.
 
 2. #### ***Line Chart: Average of Sales by Order Date***:
@@ -51,10 +51,24 @@
  - ***Shoes*** and ***Shirts*** follow with significant contributions of ***$620,200*** and ***$358,440*** units respectively.
  - ***Jackets*** and ***Gloves*** have the least Impact, contributing only around ***$49,300*** and ***$247,600*** units.
 
-#### ***Summary***
-The ***North*** region and the products ***Socks*** and ***Shirts*** are the key drivers of total sales, There is a clear increase in sales 
-around ***April 2024***, and unit price seems to have a substsantial impact on the total sales volume.
+
+4. #### ***Slicer***:
+   The Slicer on the left side of my dashboard image helps filter the data based on ***Product*** Which makes the dashboard Interactive,
+   Facilitating detailed analysis for each product.
+   
+
+#### ***Conclusion***
+From analyzing the sales data, It indicates that ***North*** region and the products ***Socks*** and ***Shirts*** are the key drivers of total sales, There is a clear increase in sales 
+around ***April 2024*** and unit price seems to have a substsantial impact on the total sales volume. 
+
+
    
 
   #### ***VITUALIZATION IMAGE***:
 ![WhatsApp Image 2024-10-25 at 01 45 11_89f60192](https://github.com/user-attachments/assets/1c546d83-ce47-4de8-8319-8afee5a52a37)
+
+
+
+
+
+### ***DATA TABLE ANALYSIS FOR CUSTOMER DATA***: 
