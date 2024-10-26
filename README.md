@@ -21,7 +21,7 @@
 - #### ***SALES: Total sales amount which I calculated as Quantity * Unit Price***.
 
 ---
-## ***INSIGHTS***:
+#### ***INSIGHTS***:
 - Uniform pricing and Quantity indicate standardized sales.
 
 
