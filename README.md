@@ -1,10 +1,16 @@
 ## PROJECT-ON-POWERBI.
 
 
+
+
  [TABLE ANALYSIS FOR SALES DATA](#sales-data)
 
  [TABLE ANALYSIS FOR CUSTOMER DATA](#customer-data)
  
+
+
+
+
 
 
 
