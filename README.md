@@ -78,6 +78,7 @@ around ***April 2024*** and unit price seems to have a substsantial impact on th
 
 1. #### ***Key Metrics***
    
+- A Card showing the duration of all subscription to be **One year**. 
 - Total Number of Subscriptions: ***18,612***
 - Total Number of Cancelled Subscriptions:***15,175***
 - Average Quarterly Revenue per Customer: ***$1,999***
@@ -96,7 +97,7 @@ around ***April 2024*** and unit price seems to have a substsantial impact on th
 - South Region: Contributes the least revenue.
 
 4. ####  ***Top Five Customers by Revenue***
-A pie chart shows the top five customers, 
+A pie chart shows the top five customers, Indicating **Liam** as the leading top customer with the highest revenue of ***$3,437,444*** spent in subscription.
 
 #### ***Conclusion***
 The dashboard provides a comprehensive overview of customer subscriptions and revenue distribution. Key insights include:
@@ -110,9 +111,10 @@ The dashboard provides a comprehensive overview of customer subscriptions and re
 This detailed analysis can help in strategic planning, identifying areas for improvement, and making informed decisions to drive  the business growth. 
 
 
-### ***Visualization***
+### ***Visualization**
 
-![WhatsApp Image 2024-10-25 at 01 45 10_50c18ddc](https://github.com/user-attachments/assets/6dce5e1b-1b42-4f00-bfdb-99e436cae854)
+![WhatsApp Image 2024-10-26 at 22 15 18_d3e7fde5](https://github.com/user-attachments/assets/3a0b1637-b645-4875-8c45-ac07bebb64c4)
+
 
 
 
