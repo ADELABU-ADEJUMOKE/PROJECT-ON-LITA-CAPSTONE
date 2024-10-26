@@ -14,7 +14,7 @@
 
 
 
-### **TABLE ANALYSIS FOR SALES DATA**: 
+### **TABLE ANALYSIS FOR SALES DATA** : 
 
 ### ***Data Structure and Columns***
 
@@ -86,7 +86,7 @@ around ***April 2024*** and unit price seems to have a substsantial impact on th
 ---
 
 
-### ***TABLE ANALYSIS FOR CUSTOMER DATA***: 
+### ***TABLE ANALYSIS FOR CUSTOMER DATA*** : 
 
 ### ***Visualization explanation***:
 
