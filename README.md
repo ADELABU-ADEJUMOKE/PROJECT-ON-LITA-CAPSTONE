@@ -23,7 +23,8 @@
 ---
 ## ***INSIGHTS***:
 - Uniform pricing and Quantity indicate standardized sales.
----
+
+
 ### ***Visualization explanation***:
 
 1. #### ***TABLE: Comparison of Region By Product Sales***:
@@ -68,8 +69,8 @@ around ***April 2024*** and unit price seems to have a substsantial impact on th
 ![WhatsApp Image 2024-10-25 at 01 45 11_89f60192](https://github.com/user-attachments/assets/1c546d83-ce47-4de8-8319-8afee5a52a37)
 
 
+---
 
-``
 
 ### ***DATA TABLE ANALYSIS FOR CUSTOMER DATA***: 
 
@@ -93,7 +94,7 @@ around ***April 2024*** and unit price seems to have a substsantial impact on th
 - West Region: Second highest revenue contributor.
 - North Region: Third highest revenue contributor.
 - South Region: Contributes the least revenue.
-- 
+
 4. ####  ***Top Five Customers by Revenue***
 A pie chart shows the top five customers, 
 
@@ -103,12 +104,13 @@ The dashboard provides a comprehensive overview of customer subscriptions and re
 - The ***Basic*** subscription type is the most lucrative.
 - The ***East*** region is the top revenue generator, indicating strong market presence and customer engagement in that area.
 - The high cancellation rate is a concern and needs to be addressed to improve customer retention.
-#### ***Focusing on the South region and understanding the reasons behind cancellations could help in increasing overall revenue and customer satisfaction***.
+  
+ #### ***Focusing on the South region and understanding the reasons behind cancellations could help in increasing overall revenue and customer satisfaction***.
 
 This detailed analysis can help in strategic planning, identifying areas for improvement, and making informed decisions to drive  the business growth. 
 
 
-#### ***Visualization***
+### ***Visualization***
 
 ![WhatsApp Image 2024-10-25 at 01 45 10_50c18ddc](https://github.com/user-attachments/assets/6dce5e1b-1b42-4f00-bfdb-99e436cae854)
 
