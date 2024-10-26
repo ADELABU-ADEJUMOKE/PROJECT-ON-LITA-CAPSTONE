@@ -33,9 +33,9 @@
    ### ***Key Observations***:
   - The **North** region has the highesr total sales at ***$927,820*** followed by South at ***$546,300***.
   - ***Socks*** and ***Shirts*** are the top selling items with total sales of $180,765 and ***$485,605*** respectively.
-  - The ***West*** region shows the Lowest contribution overall, with products like ***Gloved*** and ***Socks*** having minimal sales.
+  - The ***West*** region shows the Lowest contribution overall, with products like ***Gloves*** and ***Socks*** having minimal sales.
 
-2. #### ***Line Chart: Average of Sales by OrderDate***:
+2. #### ***Line Chart: Average of Sales by Order Date***:
  - This line graph visualizes how the sales average fluctuates over time from ***April 2023 to July 2024***.
   
      ### ***Key Observations***:
@@ -43,8 +43,8 @@
   - The lowest point of sales was in ***June 2023*** with ***$100*** as average sales.
   - Sales show periodic spikes, possibly related to seansonal and promotional events, leading to these fluctuations.
 
- 3. #### ***Bar Chart: Unit Price Impact on Sales***:
- - The bar chart illustrates the sum of sales by product unit price.
+ 3. #### ***Product Sales (Bar Chart): Unit Price Impact on Sales***:
+ - The bar chart Visualizes the Impact of unit price on total sales, showing which price points contribute the most to overall revenue.
 
    ### ***Key Observations***:
  - ***Socks***: Have the Largest sales impact, totaling ***$2,101,090*** units.
@@ -56,4 +56,5 @@ The ***North*** region and the products ***Socks*** and ***Shirts*** are the key
 around ***April 2024***, and unit price seems to have a substsantial impact on the total sales volume.
    
 
-  
+  #### ***VITUALIZATION IMAGE***:
+![WhatsApp Image 2024-10-25 at 01 45 11_89f60192](https://github.com/user-attachments/assets/1c546d83-ce47-4de8-8319-8afee5a52a37)
