@@ -99,7 +99,7 @@ around ***April 2024*** and unit price seems to have a substsantial impact on th
 - South Region: Contributes the least revenue.
 
 4. ####  ***Top Five Customers by Revenue***
-A pie chart shows the top five customers, Indicating **Liam** as the leading top customer with the highest revenue of ***$3,437,444*** spent in subscription.
+A pie chart shows the top five customers which was filtered based on customers who did not cancel their subscription, Indicating **Liam** as the leading top customer with the highest revenue of ***$3,437,444*** spent in subscription.
 
 #### ***Conclusion***
 The dashboard provides a comprehensive overview of customer subscriptions and revenue distribution. Key insights include:
