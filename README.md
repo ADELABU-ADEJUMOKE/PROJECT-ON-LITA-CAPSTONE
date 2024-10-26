@@ -6,6 +6,8 @@
  [TABLE ANALYSIS FOR CUSTOMER DATA](#CUSTOMER-DATA)
  
 
+
+
 ### **TABLE ANALYSIS FOR SALES DATA**: 
 
 ### ***Data Structure and Columns***
