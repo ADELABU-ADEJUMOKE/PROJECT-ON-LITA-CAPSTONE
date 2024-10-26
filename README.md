@@ -59,16 +59,59 @@
 
 #### ***Conclusion***
 From analyzing the sales data, It indicates that ***North*** region and the products ***Socks*** and ***Shirts*** are the key drivers of total sales, There is a clear increase in sales 
-around ***April 2024*** and unit price seems to have a substsantial impact on the total sales volume. 
+around ***April 2024*** and unit price seems to have a substsantial impact on the total sales volume. The increase in sales of products during specific period shows that the higher demand of product is based on seasons.
 
 
    
 
-  #### ***VITUALIZATION IMAGE***:
+  #### ***VITUALIZATION***:
 ![WhatsApp Image 2024-10-25 at 01 45 11_89f60192](https://github.com/user-attachments/assets/1c546d83-ce47-4de8-8319-8afee5a52a37)
 
 
 
-
+``
 
 ### ***DATA TABLE ANALYSIS FOR CUSTOMER DATA***: 
+
+### ***Visualization explanation***:
+
+1. #### ***Key Metrics***
+   
+- Total Number of Subscriptions: ***18,612***
+- Total Number of Cancelled Subscriptions:***15,175***
+- Average Quarterly Revenue per Customer: ***$1,999***
+  
+2. ### ***Revenue by Subscription Type***
+
+- Bacic Subscription: Generates the highest revenue.
+- Premium Subscription: Generates moderate revenue.
+- Standard Subscription: Generates the least revenue.
+  
+3. #### ***Revenue by Region***
+  
+- East Region: Contributes the most revenue with $16,958,763.
+- West Region: Second highest revenue contributor.
+- North Region: Third highest revenue contributor.
+- South Region: Contributes the least revenue.
+- 
+4. ####  ***Top Five Customers by Revenue***
+A pie chart shows the top five customers, 
+
+#### ***Conclusion***
+The dashboard provides a comprehensive overview of customer subscriptions and revenue distribution. Key insights include:
+
+- The ***Basic*** subscription type is the most lucrative.
+- The ***East*** region is the top revenue generator, indicating strong market presence and customer engagement in that area.
+- The high cancellation rate is a concern and needs to be addressed to improve customer retention.
+#### ***Focusing on the South region and understanding the reasons behind cancellations could help in increasing overall revenue and customer satisfaction***.
+
+This detailed analysis can help in strategic planning, identifying areas for improvement, and making informed decisions to drive  the business growth. 
+
+
+#### ***Visualization***
+
+![WhatsApp Image 2024-10-25 at 01 45 10_50c18ddc](https://github.com/user-attachments/assets/6dce5e1b-1b42-4f00-bfdb-99e436cae854)
+
+
+
+
