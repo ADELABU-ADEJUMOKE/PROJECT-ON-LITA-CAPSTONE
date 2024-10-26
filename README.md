@@ -82,6 +82,8 @@ around ***April 2024*** and unit price seems to have a substsantial impact on th
 - Total Number of Subscriptions: ***18,612***
 - Total Number of Cancelled Subscriptions:***15,175***
 - Average Quarterly Revenue per Customer: ***$1,999***
+- A slicer tool that contains the different subcription type, which help to analyze each visualization.
+  
   
 2. ### ***Revenue by Subscription Type***
 
@@ -108,7 +110,7 @@ The dashboard provides a comprehensive overview of customer subscriptions and re
   
  #### ***Focusing on the South region and understanding the reasons behind cancellations could help in increasing overall revenue and customer satisfaction***.
 
-This detailed analysis can help in strategic planning, identifying areas for improvement, and making informed decisions to drive  the business growth. 
+This detailed analysis can help  the business in strategic planning, identifying areas for improvement, and making informed decisions to drive  the business growth. 
 
 
 ### ***Visualization**
