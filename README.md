@@ -2,23 +2,9 @@
 
 
 
-[TABLE ANALYSIS FOR SALES DATA](#sales-data)
-
- 
-
-
-[TABLE ANALYSIS FOR CUSTOMER DATA](#customer-data)
- 
-
-
-
-
-
-
-
 ### **TABLE ANALYSIS FOR SALES DATA** : 
 
-### ***Data Structure and Columns***
+ ### ***Data Structure and Columns***
 
 - #### ***ORDER ID: Unique Identifer for each sales transaction***.
 
@@ -34,23 +20,31 @@
 
 - #### ***UNIT PRICE: price per unit of the product***.
 
-- #### ***SALES: Total sales amount which I calculated as Quantity * Unit Price***.
+- #### ***SALES: Total sales amount which I calculated as Quantity * Unit Price***
+
+
+
+#### TOOLS USED FOR VIRTUALIZATION:
+
+1. #### **POWER BI**
+2. #### **EXCEL**
+3. ### **STRUCTURED QUERY LANGUAGE**(SQL)
 
 ---
-#### ***INSIGHTS***:
+#### ***INSIGHTS OF THE SALES DATA***:
 - Uniform pricing and Quantity indicate standardized sales.
 
 
-### ***Visualization explanation***:
+### ***Visualization explanation For power BI***:
 
 1. #### ***TABLE: Comparison of Region By Product Sales***:
 
    - The table explains the sales for each product by region as well as the total sales.
   
    ### ***Key Observations***:
-  - The **North** region has the highesr total sales at ***$927,820*** followed by South at ***$546,300***.
-  - ***Socks*** and ***Shirts*** are the top selling items with total sales of ***$180,765*** and ***$485,605*** respectively.
-  - The ***West*** region shows the Lowest contribution overall, with products like ***Gloves*** and ***Socks*** having minimal sales.
+  - The **South** region has the highesr total sales at ***$927,820*** followed by ***East*** at ***$546,300***.
+  - ***Shoes*** and ***Shirt*** are the top selling items with total sales of ***$613,380*** and ***$485,600*** respectively.
+  - The ***West*** region shows the Lowest contribution overall, with products like ***Gloves*** and ***Hat*** having minimal sales.
 
 2. #### ***Line Chart: Average of Sales by Order Date***:
  - This line graph visualizes how the sales average fluctuates over time from ***April 2023 to July 2024***.
@@ -64,9 +58,8 @@
  - The bar chart Visualizes the Impact of unit price on total sales, showing which price points contribute the most to overall revenue.
 
    ### ***Key Observations***:
- - ***Socks***: Have the Largest sales impact, totaling ***$2,101,090*** units.
- - ***Shoes*** and ***Shirts*** follow with significant contributions of ***$620,200*** and ***$358,440*** units respectively.
- - ***Jackets*** and ***Gloves*** have the least Impact, contributing only around ***$49,300*** and ***$247,600*** units.
+ - ***Shoes*** and ***Shirts*** Largest significant contributions of ***$620,200*** and ***$358,440*** units respectively.
+ - ***Socks*** and ***Jacket*** have the least Impact, contributing only around ***$180,785*** and ***$208,230*** units.
 
 
 4. #### ***Slicer***:
@@ -78,11 +71,95 @@
 From analyzing the sales data, It indicates that ***North*** region and the products ***Socks*** and ***Shirts*** are the key drivers of total sales, There is a clear increase in sales 
 around ***April 2024*** and unit price seems to have a substsantial impact on the total sales volume. The increase in sales of products during specific period shows that the higher demand of product is based on seasons.
 
+### ***Visualization explanation For Excel***:
 
-   
 
-  #### ***VITUALIZATION***:
-![WhatsApp Image 2024-10-25 at 01 45 11_89f60192](https://github.com/user-attachments/assets/1c546d83-ce47-4de8-8319-8afee5a52a37)
+ #### TABLE. 
+
+ 
+#### ***Peak in Sales***
+
+The tables show significant sales data that can help identify when we had a peak:
+
+- ***Sales by Month***: February had the highest sales at **2.75M**. This information is helps us to recognizing seasonal.
+
+- ***Sales by Region***: The **South** region had the highest sales with **4.675M**, indicating a strong market presence or successful regional strategies.
+
+#### ***Product Performance***
+The tables also highlight the products with the highest and lowest sales:
+
+***Highest Sales***: Shoes sold **3.1M** units, making them the top performer. This suggests that Shoes are highly popular and should be prioritized in inventory and marketing efforts.
+
+**Lowest Sales**: **Socks** had the lowest sales at  units. This might indicate a need to evaluate the product's appeal or to improve its promotion.   
+
+
+#### ***Impact on Sales***
+
+***Identification of High-Performing Products***: By analyzing the tables, we can see the products that is driving the most revenue. Shoes being the top seller suggests they should be a focal point for sales strategies.
+
+***Recognition of Underperforming Products***: Socks being the lowest seller indicates areas that may need reevaluation or targeted marketing efforts to boost sales.
+
+***Regional Analysis***: The data shows where the sales are strongest geographically. The South region’s high sales mean strategies used there could be analyzed and potentially applied to other regions.
+
+***Seasonal Trends***: Sales peaking in February suggest the need for enhanced inventory and marketing plans during this period to capitalize on the increased demand.
+
+ The  breaking down and analyzing of these pivot tables, we are more informed about the decisions to optimize sales strategies, inventory management, and marketing efforts.
+
+
+
+#### Charts.
+
+****SUM OF PRODUCT SOLD IN 2023 AND 2024:****
+
+- This bar chart compares the total sales of different products across the years 2023 and 2024.
+
+- The x-axis represents the products (Glove, Hat, Jacket, Shirt, Shoe, Socks).
+
+- The y-axis represents the total sales in units.
+
+Each product has two bars, one for 2023 and one for 2024, allowing for a direct comparison of sales performance between the two years.
+
+****SALES BY REGION:****
+
+- This line chart shows the sales performance across different regions.
+
+- The x-axis represents the regions (East, North, South, West).
+
+- The y-axis represents the sales in units.
+
+The line connects the sales data points for each region, providing a visual trend of sales performance across regions.
+
+****SALES BY ORDER DATE:****
+
+- This bar chart displays sales data based on the order date.
+
+- The x-axis represents the order dates.
+
+- The y-axis represents the sales in units.
+
+Each bar represents the sales for a specific order date, allowing for an analysis of sales trends over time.
+
+
+
+  #### ***VITUALIZATION IMAGES***:
+
+##### **POWER BI**
+  
+![Screenshot 2024-10-27 102601](https://github.com/user-attachments/assets/ddddfe90-ec33-4742-bbc6-870df6344f09)
+
+
+
+##### ***EXCEL***
+
+
+![Screenshot 2024-10-25 015555](https://github.com/user-attachments/assets/c065d506-d201-46fe-8c3c-92b1950f4b52)
+
+
+![Screenshot 2024-10-27 093054](https://github.com/user-attachments/assets/80fab911-e8f3-4909-b3dd-641e800a613e)
+
+
+![Screenshot 2024-10-25 015531](https://github.com/user-attachments/assets/afddfebe-6f20-4c43-aae3-20c4614987a1)
+
 
 
 ---
@@ -92,11 +169,28 @@ around ***April 2024*** and unit price seems to have a substsantial impact on th
 
 ### ***Visualization explanation***:
 
+The table provides subscription data for various customers. It includes comprehensive details about various aspects of subscriptions, highlighting key financial and subscription status information. Here’s the detailed breakdown:
+
+Subscription Details
+SubscriptionType:
+
+***Value***: Basic,Standard, Premium 
+
+***SubscriptionEnd:***
+ This column shows the end date of each subscription. All entries have the different end date.
+
+ #### ****TOOLS USED FOR VISUALIZATION AND ANALYZING THE TABLE:***
+
+1. #### **POWER BI**
+2. #### **EXCEL**
+3. ### **STRUCTURED QUERY LANGUAGE**(SQL)
+
+
 1. #### ***Key Metrics***
    
 - A Card showing the duration of all subscription to be **One year**. 
-- Total Number of Subscriptions: ***18,612***
-- Total Number of Cancelled Subscriptions:***15,175***
+- Total Number of Subscribers: ***18,612***
+- Total Number of Subscribers who Cancelled:***15,175***
 - Average Quarterly Revenue per Customer: ***$1,999***
 - A slicer tool that contains the different subcription type, which help to analyze each visualization.
   
