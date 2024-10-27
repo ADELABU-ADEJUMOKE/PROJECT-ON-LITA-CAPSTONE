@@ -67,9 +67,6 @@
    Facilitating detailed analysis for each product.
    
 
-#### ***Conclusion***
-From analyzing the sales data, It indicates that ***North*** region and the products ***Socks*** and ***Shirts*** are the key drivers of total sales, There is a clear increase in sales 
-around ***April 2024*** and unit price seems to have a substsantial impact on the total sales volume. The increase in sales of products during specific period shows that the higher demand of product is based on seasons.
 
 ### ***Visualization explanation For Excel***:
 
@@ -119,6 +116,7 @@ The tables also highlight the products with the highest and lowest sales:
 
 Each product has two bars, one for 2023 and one for 2024, allowing for a direct comparison of sales performance between the two years.
 
+
 ****SALES BY REGION:****
 
 - This line chart shows the sales performance across different regions.
@@ -139,6 +137,19 @@ The line connects the sales data points for each region, providing a visual tren
 
 Each bar represents the sales for a specific order date, allowing for an analysis of sales trends over time.
 
+
+****SQL****
+
+Questions that was used to analyse the sales data where:
+
+- retrieve the total sales for each product category.
+- find the number of sales transactions in each region.
+- find the highest-selling product by total sales value.
+- calculate total revenue per product.
+- calculate monthly sales totals for the current year.
+- find the top 5 customers by total purchase amount.
+- calculate the percentage of total sales contributed by each region.
+- identify products with no sales in the last quarter.
 
 
   #### ***VITUALIZATION IMAGES***:
@@ -162,6 +173,25 @@ Each bar represents the sales for a specific order date, allowing for an analysi
 
 
 
+#### ***SQL***
+
+
+![Screenshot 2024-10-25 012832](https://github.com/user-attachments/assets/a988d66b-124d-40aa-ad64-43c2384d55db)
+
+
+![Screenshot 2024-10-25 013013](https://github.com/user-attachments/assets/b2e1d213-5550-4905-a807-67166d1da66b)
+
+
+![Screenshot 2024-10-25 013142](https://github.com/user-attachments/assets/92667ffa-4e75-4c29-9653-a19d500a9275)
+
+
+
+
+
+#### ***Conclusion:*** 
+  ##### From analyzing the sales data, It indicates that ***North*** region and the products **Socks** and **Shirts** are the key drivers of total sales, There is a clear increase in sales around **February 2024** and unit price seems to have a substsantial impact on the total sales volume. The increase in sales of products during specific period shows that the higher demand of product is based on seasons.
+
+  
 ---
 
 
@@ -187,13 +217,35 @@ SubscriptionType:
 
 
 1. #### ***Key Metrics***
+
+ ###### ***Powerbi***
    
 - A Card showing the duration of all subscription to be **One year**. 
 - Total Number of Subscribers: ***18,612***
 - Total Number of Subscribers who Cancelled:***15,175***
 - Average Quarterly Revenue per Customer: ***$1,999***
 - A slicer tool that contains the different subcription type, which help to analyze each visualization.
-  
+
+
+##### ***Excel***
+  - A pivot table analyzing the mosth popular subscription type by revenue
+  - Customer subscription type by start and end Month.
+  - Top ***ten*** customers by revenue.
+  - duration of subscription by Revenue.
+
+  #### ***SQL****
+
+  Queries to answer and analyze the data was written 
+
+ - retrieving the total number of customers from each region.
+- find the most popular subscription type by the number of customers.
+- find customers who cancelled their subscription within 6 months.
+- calculate the average subscription duration for all customers.
+- find customers with subscriptions longer than 12 months.
+- calculate total revenue by subscription type.
+- find the top 3 regions by subscription cancellations.
+- find the total number of active and canceled subscriptions.
+
   
 2. ### ***Revenue by Subscription Type***
 
@@ -211,23 +263,75 @@ SubscriptionType:
 4. ####  ***Top Five Customers by Revenue***
 A pie chart shows the top five customers which was filtered based on customers who did not cancel their subscription, Indicating **Liam** as the leading top customer with the highest revenue of ***$3,437,444*** spent in subscription.
 
+
+
+### ***Visualization**
+
+****POWER BI***
+
+![WhatsApp Image 2024-10-26 at 22 15 18_d3e7fde5](https://github.com/user-attachments/assets/3a0b1637-b645-4875-8c45-ac07bebb64c4)
+
+
+
+****EXCEL****
+
+
+![Screenshot 2024-10-25 015555](https://github.com/user-attachments/assets/cdf35785-6f59-4e9d-8dce-5681502a7c7c)
+
+
+
+
+![Screenshot 2024-10-25 015858](https://github.com/user-attachments/assets/6e6c6bca-1e2a-493a-b079-9410a9ff4702)
+
+
+
+
+![Screenshot 2024-10-25 020036](https://github.com/user-attachments/assets/70638778-22db-41b4-b0ab-1cacd3117f58)
+
+
+
+
+
+****SQL***
+
+
+
+![Screenshot 2024-10-25 013400](https://github.com/user-attachments/assets/071461a8-a2c3-43ff-b0ab-eafabda11a09)
+
+
+![Screenshot 2024-10-25 013427](https://github.com/user-attachments/assets/5c3486f6-72c5-4002-a2bb-e293afeaddb2)
+
+
+![Screenshot 2024-10-25 013449](https://github.com/user-attachments/assets/1131c023-e1f7-49e0-910c-e4257d03a6f5)
+
+
+
+![Screenshot 2024-10-25 013657](https://github.com/user-attachments/assets/12e155f3-1262-4f10-86d0-a867e9f0932a)
+
+
+
+
+
+
 #### ***Conclusion***
 The dashboard provides a comprehensive overview of customer subscriptions and revenue distribution. Key insights include:
 
 - The ***Basic*** subscription type is the most lucrative.
 - The ***East*** region is the top revenue generator, indicating strong market presence and customer engagement in that area.
 - The high cancellation rate is a concern and needs to be addressed to improve customer retention.
+
+  
+***Basic Subscription Dominance***: The Basic subscription leads significantly in revenue, showing it is the most popular and widely used.
+
+***Premium and Standard Segmentation***: Both Premium and Standard have moderate revenues, indicating more specific, potentially niche markets.
+
+***Subscription Periods and Trends***: Many Basic subscriptions start and end within the same month or a short period, suggesting possible monthly renewals. 
+Premium and Standard show more diverse start and end dates, suggesting varied customer needs or trial periods.
+
+With this analysis, it’s clear which subscriptions are driving revenue and how customer behavior varies across different subscription types.
   
  #### ***Focusing on the South region and understanding the reasons behind cancellations could help in increasing overall revenue and customer satisfaction***.
 
 This detailed analysis can help  the business in strategic planning, identifying areas for improvement, and making informed decisions to drive  the business growth. 
-
-
-### ***Visualization**
-
-![WhatsApp Image 2024-10-26 at 22 15 18_d3e7fde5](https://github.com/user-attachments/assets/3a0b1637-b645-4875-8c45-ac07bebb64c4)
-
-
-
 
 
