@@ -211,14 +211,16 @@ SubscriptionType:
 
  #### ****TOOLS USED FOR VISUALIZATION AND ANALYZING THE TABLE:***
 
-1. #### **POWER BI**
+1. #### ***POWER BI***
 2. #### **EXCEL**
 3. ### ***STRUCTURED QUERY LANGUAGE(SQL)***
 
+   
 
-1. #### ***Key Metrics***
 
- ###### ***Powerbi***
+ #### ***Key Metrics***
+
+  ***Powerbi***
    
 - A Card showing the duration of all subscription to be **One year**. 
 - Total Number of Subscribers: ***18,612***
