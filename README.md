@@ -28,7 +28,7 @@
 
 1. #### **POWER BI**
 2. #### **EXCEL**
-3. ### **STRUCTURED QUERY LANGUAGE**(SQL)
+3. ### ***STRUCTURED QUERY LANGUAGE(SQL)***
 
 ---
 #### ***INSIGHTS OF THE SALES DATA***:
@@ -213,7 +213,7 @@ SubscriptionType:
 
 1. #### **POWER BI**
 2. #### **EXCEL**
-3. ### **STRUCTURED QUERY LANGUAGE**(SQL)
+3. ### ***STRUCTURED QUERY LANGUAGE(SQL)***
 
 
 1. #### ***Key Metrics***
