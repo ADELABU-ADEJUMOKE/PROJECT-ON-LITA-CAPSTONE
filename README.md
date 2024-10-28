@@ -1,6 +1,6 @@
 ### LITA-CAPSTONE-PROJECT
 
-
+[Data Structure and Colums](data_structure)
 
 #### **TABLE ANALYSIS FOR SALES DATA** : 
 
@@ -82,7 +82,7 @@
 ### ***Visualization explanation For Excel***:
 
 
- #### TABLE. 
+ ### TABLE. 
 
  
 #### ***Peak in Sales***
@@ -101,7 +101,7 @@ The tables also highlight the products with the highest and lowest sales:
 **Lowest Sales**: **Socks** had the lowest sales at  units. This might indicate a need to evaluate the product's appeal or to improve its promotion.   
 
 
-#### ***Impact on Sales***
+#### ***Impact On Sales***
 
 ***Identification of High-Performing Products***: By analyzing the tables, we can see the products that is driving the most revenue. Shoes being the top seller suggests they should be a focal point for sales strategies.
 
@@ -119,13 +119,13 @@ The tables also highlight the products with the highest and lowest sales:
 
 ****SUM OF PRODUCT SOLD IN 2023 AND 2024:****
 
-- This bar chart compares the total sales of different products across the years 2023 and 2024.
+- This bar chart compares the total sales of different products across the years ***2023*** and ***2024***.
 
 - The x-axis represents the products ***(Glove, Hat, Jacket, Shirt, Shoe, Socks).***
 
 - The y-axis represents the total sales in units.
 
-Each product has two bars, one for 2023 and one for 2024, allowing for a direct comparison of sales performance between the two years.
+Each product has two bars, one for ***2023*** and one for ***2024***, allowing for a direct comparison of sales performance between the two years.
 
 
 ****SALES BY REGION:****
@@ -271,7 +271,7 @@ The table provides subscription data for various customers. It includes comprehe
   
 2. #### ***Revenue by Region***
   
-- East Region: Contributes the most revenue with $16,958,763.
+- East Region: Contributes the most revenue with ***$16,958,763.***
 - West Region: Second highest revenue contributor.
 - North Region: Third highest revenue contributor.
 - South Region: Contributes the least revenue.
@@ -342,13 +342,13 @@ The dashboard provides a comprehensive overview of customer subscriptions and re
 
 ***Premium and Standard Segmentation***: Both Premium and Standard have moderate revenues, indicating more specific,targeted subscription.
 
-***Subscription Periods and Trends***: Many Basic subscriptions start and end within the same month or a short period, suggesting possible monthly renewals. 
+***Subscription Periods and Trends***: Many Basic subscriptions start and end within the same month suggesting possible monthly renewals. 
 Premium and Standard show more diverse start and end dates, suggesting varied customer needs or trial periods.
 
 With this analysis, it’s clear which subscriptions are driving revenue and how customer behavior varies across different subscription types.
   
  #### ***Focusing on the South region and understanding the reasons behind cancellations could help in increasing overall revenue and customer satisfaction***.
 
-This detailed analysis can help  the business in strategic planning, identifying areas for improvement, and making informed decisions to drive  the business growth. 
+This detailed analysis can help  the business in strategic planning, identifying areas for improvement, and making informed decisions to drive the business growth. 
 
 
