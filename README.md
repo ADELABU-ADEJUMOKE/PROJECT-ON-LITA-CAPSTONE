@@ -1,6 +1,6 @@
 ### LITA-CAPSTONE-PROJECT
 
-[Data Structure and Colums](data_structure)
+[Data Structure and Columns](data_structure)
 
 #### **TABLE ANALYSIS FOR SALES DATA** : 
 
