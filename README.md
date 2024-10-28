@@ -1,6 +1,8 @@
 ### LITA-CAPSTONE-PROJECT
 
-[Data Structure and Columns](#Data-Structure-and-Colunms)
+[Data Structure and Columns](#data-structure-and-colunms)
+[TOOLS USED FOR VITUALIZATION](#tools-used-for-vitualization)
+
 
 #### **TABLE ANALYSIS FOR SALES DATA** : 
 
@@ -35,7 +37,7 @@
 ```
 
 
-#### TOOLS USED FOR VIRTUALIZATION:
+#### TOOLS USED FOR VITUALIZATION:
 
 1. #### **POWER BI**
 2. #### **EXCEL**
