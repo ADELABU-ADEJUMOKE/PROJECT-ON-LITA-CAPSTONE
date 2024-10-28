@@ -1,23 +1,15 @@
 ### LITA-CAPSTONE-PROJECT
 
-[Data Structure and Columns](#data-structure-and-colunms)
+[TABLE ANALYSIS FOR SALES DATA](#table-analysis-for-sales-data)
 
+[VITUALIZATION IMAGES](#vitualization-images)
 
-[TOOLS USED FOR VIRTUALIZATION AND ANALYSIS ](#tools-used-for-virtualization-analysis)
-
-
-[INSIGHTS OF THE SALES DATA](#insights-of-the-sales-data)
-
-[Visualization explanation For Power BI](#visualization-explanation-for-power-bi)
-
-
-[Visualization explanation For Excel](visualization-explanation-for-excel)
 
 
 #### **TABLE ANALYSIS FOR SALES DATA** : 
 
- #### ***Data Structure and Columns***
-
+ **Data Structure and Columns**
+ 
 -  ***ORDER ID***:
   Unique Identifer for each sales transaction.
 
@@ -64,15 +56,16 @@
 
    - The table explains the sales for each product by region as well as the total sales.
   
-    ***Key Observations***:
-  - The **South** region has the highesr total sales at ***$927,820*** followed by ***East*** at ***$546,300***.
+ ***Key Observations***:
+ 
+ - The **South** region has the highesr total sales at ***$927,820*** followed by ***East*** at ***$546,300***.
   - ***Shoes*** and ***Shirt*** are the top selling items with total sales of ***$613,380*** and ***$485,600*** respectively.
   - The ***West*** region shows the Lowest contribution overall, with products like ***Gloves*** and ***Hat*** having minimal sales.
 
 2.  ***Line Chart: Average of Sales by Order Date***:
  - This line graph visualizes how the sales average fluctuates over time from ***April 2023 to July 2024***.
   
-     ***Key Observations***:
+***Key Observations***:
   - The highest sales average occurred in ***April 2024*** at ***$600***, Indicating a peak in sales during that time.
   - The lowest point of sales was in ***June 2023*** with ***$100*** as average sales.
   - Sales show periodic spikes, possibly related to seansonal and promotional events, leading to these fluctuations.
