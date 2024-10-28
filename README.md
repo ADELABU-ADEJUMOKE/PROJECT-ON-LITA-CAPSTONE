@@ -1,6 +1,8 @@
 ### LITA-CAPSTONE-PROJECT
 
+
 [TABLE ANALYSIS FOR SALES DATA](#table-analysis-for-sales-data)
+
 
 [VITUALIZATION IMAGES](#vitualization-images)
 
