@@ -103,9 +103,9 @@ The tables also highlight the products with the highest and lowest sales:
 **Lowest Sales**: **Socks** had the lowest sales at units. This might indicate a need to evaluate the product's appeal or to improve its promotion.   
 
 
-***Impact On Sales***
+***Impact On Sales*** 
 
-***Identification of High-Performing Products***: By analyzing the tables, we can see the products that is driving the most revenue. Shoes being the top seller suggests they should be a focal point for sales strategies.
+***Identification of High-Performing Products***: By analyzing the tables, we can see the products that is driving the most revenue. **Shoes** being the top seller, suggests they should be a direction point for sales strategies.
 
 ***Recognition of Underperforming Products***: **Socks** being the lowest seller indicates areas that may need reevaluation or targeted marketing efforts to boost sales.
 
