@@ -2,11 +2,14 @@
 
 [Data Structure and Columns](#data-structure-and-colunms)
 
+
 [TOOLS USED FOR VIRTUALIZATION AND ANALYSIS ](#tools-used-for-virtualization-analysis)
+
 
 [INSIGHTS OF THE SALES DATA](#insights-of-the-sales-data)
 
 [Visualization explanation For Power BI](#visualization-explanation-for-power-bi)
+
 
 [Visualization explanation For Excel](visualization-explanation-for-excel)
 
@@ -76,9 +79,9 @@
 
 3. ***Product Sales (Bar Chart): Unit Price Impact on Sales***:
  - The bar chart Visualizes the Impact of unit price on total sales, showing which price points contribute the most to overall revenue.
-
-    ***Key Observations***:
- - ***Shoes*** and ***Shirts*** Largest significant contributions of ***$620,200*** and ***$358,440*** units respectively.
+   
+***Key Observations***:
+- ***Shoes*** and ***Shirts*** Largest significant contributions of ***$620,200*** and ***$358,440*** units respectively.
  - ***Socks*** and ***Jacket*** have the least Impact, contributing only around ***$180,785*** and ***$208,230*** units.
 
 
