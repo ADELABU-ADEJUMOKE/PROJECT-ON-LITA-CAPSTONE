@@ -36,7 +36,7 @@
 ```
 
 
-#### TOOLS USED FOR VITUALIZATION AND ANALYSIS:
+#### TOOLS USED FOR VISUALIZATION AND ANALYSIS:
 
 1. #### **POWER BI**
 2. #### **EXCEL**
@@ -55,7 +55,7 @@
   
  ***Key Observations***:
  
- - The **South** region has the highesr total sales at ***$927,820*** followed by ***East*** at ***$546,300***.
+ - The **South** region has the highest total sales at ***$927,820*** followed by ***East*** at ***$546,300***.
   - ***Shoes*** and ***Shirt*** are the top selling items with total sales of ***$613,380*** and ***$485,600*** respectively.
   - The ***West*** region shows the Lowest contribution overall, with products like ***Gloves*** and ***Hat*** having minimal sales.
 
@@ -100,7 +100,7 @@ The tables also highlight the products with the highest and lowest sales:
 
 ***Highest Sales***: Shoes sold **3.1M** units, making them the top performer. This suggests that Shoes are highly popular and should be prioritized in inventory and marketing efforts.
 
-**Lowest Sales**: **Socks** had the lowest sales at  units. This might indicate a need to evaluate the product's appeal or to improve its promotion.   
+**Lowest Sales**: **Socks** had the lowest sales at units. This might indicate a need to evaluate the product's appeal or to improve its promotion.   
 
 
 ***Impact On Sales***
