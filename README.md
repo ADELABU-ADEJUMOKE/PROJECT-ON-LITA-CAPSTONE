@@ -1,35 +1,42 @@
 ### LITA-CAPSTONE-PROJECT
 
 [Data Structure and Columns](#data-structure-and-colunms)
-[TOOLS USED FOR VITUALIZATION](#tools-used-for-vitualization)
+
+[TOOLS USED FOR VIRTUALIZATION AND ANALYSIS ](#tools-used-for-virtualization-analysis)
+
+[INSIGHTS OF THE SALES DATA](#insights-of-the-sales-data)
+
+[Visualization explanation For Power BI](#visualization-explanation-for-power-bi)
+
+[Visualization explanation For Excel](visualization-explanation-for-excel)
 
 
 #### **TABLE ANALYSIS FOR SALES DATA** : 
 
  #### ***Data Structure and Columns***
 
-- #### ***ORDER ID***:
+-  ***ORDER ID***:
   Unique Identifer for each sales transaction.
 
-- #### ***CUSTOMER ID***:
+-  ***CUSTOMER ID***:
   ID representing Individual customers.
 
-- #### ***PRODUCT***:
+- ***PRODUCT***:
  Type of product purchased were Shoes, Jacket, Shirt, Hat, Gloves and Socks.
 
-- #### ***REGION***:
+-  ***REGION***:
   The region where product was sold were South, North, East and West.
 
-- #### ***ORDER DATE***:
+-  ***ORDER DATE***:
   Date of the order,which include the day, month and year.
 
-- #### ***QUANTITY***:
+- ***QUANTITY***:
  Number of items sold per transaction.
 
-- #### ***UNIT PRICE***:
+- ***UNIT PRICE***:
   price per unit of the product.
 
-- #### ***SALES***:
+-  ***SALES***:
    Total sales amount which I calculated as
   
 ```
@@ -37,7 +44,7 @@
 ```
 
 
-#### TOOLS USED FOR VITUALIZATION:
+#### TOOLS USED FOR VITUALIZATION AND ANALYSIS:
 
 1. #### **POWER BI**
 2. #### **EXCEL**
@@ -48,46 +55,46 @@
 - Uniform pricing and Quantity indicate standardized sales.
 
 
-### ***Visualization explanation For power BI***:
+#### ***Visualization explanation For Power BI***:
 
-1. #### ***TABLE: Comparison of Region By Product Sales***:
+1.  ***TABLE: Comparison of Region By Product Sales***:
 
    - The table explains the sales for each product by region as well as the total sales.
   
-   #### ***Key Observations***:
+    ***Key Observations***:
   - The **South** region has the highesr total sales at ***$927,820*** followed by ***East*** at ***$546,300***.
   - ***Shoes*** and ***Shirt*** are the top selling items with total sales of ***$613,380*** and ***$485,600*** respectively.
   - The ***West*** region shows the Lowest contribution overall, with products like ***Gloves*** and ***Hat*** having minimal sales.
 
-2. #### ***Line Chart: Average of Sales by Order Date***:
+2.  ***Line Chart: Average of Sales by Order Date***:
  - This line graph visualizes how the sales average fluctuates over time from ***April 2023 to July 2024***.
   
-     #### ***Key Observations***:
+     ***Key Observations***:
   - The highest sales average occurred in ***April 2024*** at ***$600***, Indicating a peak in sales during that time.
   - The lowest point of sales was in ***June 2023*** with ***$100*** as average sales.
   - Sales show periodic spikes, possibly related to seansonal and promotional events, leading to these fluctuations.
 
- 3. #### ***Product Sales (Bar Chart): Unit Price Impact on Sales***:
+3. ***Product Sales (Bar Chart): Unit Price Impact on Sales***:
  - The bar chart Visualizes the Impact of unit price on total sales, showing which price points contribute the most to overall revenue.
 
-   #### ***Key Observations***:
+    ***Key Observations***:
  - ***Shoes*** and ***Shirts*** Largest significant contributions of ***$620,200*** and ***$358,440*** units respectively.
  - ***Socks*** and ***Jacket*** have the least Impact, contributing only around ***$180,785*** and ***$208,230*** units.
 
 
-4. #### ***Slicer***:
+4.  ***Slicer***:
    The Slicer on the left side of my dashboard image helps filter the data based on ***Product*** Which makes the dashboard Interactive,
    Facilitating detailed analysis for each product.
    
 
 
-### ***Visualization explanation For Excel***:
+#### ***Visualization explanation For Excel***:
 
 
- ### TABLE. 
+  **TABLE**. 
 
  
-#### ***Peak in Sales***
+***Peak in Sales***
 
 The tables show significant sales data that can help identify when we had a peak:
 
@@ -95,7 +102,7 @@ The tables show significant sales data that can help identify when we had a peak
 
 - ***Sales by Region***: The **South** region had the highest sales with **4.675M**, indicating a strong market presence or successful regional strategies.
 
-#### ***Product Performance***
+ ***Product Performance***
 The tables also highlight the products with the highest and lowest sales:
 
 ***Highest Sales***: Shoes sold **3.1M** units, making them the top performer. This suggests that Shoes are highly popular and should be prioritized in inventory and marketing efforts.
@@ -103,7 +110,7 @@ The tables also highlight the products with the highest and lowest sales:
 **Lowest Sales**: **Socks** had the lowest sales at  units. This might indicate a need to evaluate the product's appeal or to improve its promotion.   
 
 
-#### ***Impact On Sales***
+***Impact On Sales***
 
 ***Identification of High-Performing Products***: By analyzing the tables, we can see the products that is driving the most revenue. Shoes being the top seller suggests they should be a focal point for sales strategies.
 
@@ -117,7 +124,7 @@ The tables also highlight the products with the highest and lowest sales:
 
 
 
-#### Charts.
+**Charts.**
 
 ****SUM OF PRODUCT SOLD IN 2023 AND 2024:****
 
