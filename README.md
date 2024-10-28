@@ -153,7 +153,7 @@ Each bar represents the sales for a specific order date, allowing for an analysi
 
 ****SQL:****
 
-Questions that was used to analyse the sales data were:
+Questions that was used to analyse the sales data are:
 
 - retrieve the total sales for each product category.
 - find the number of sales transactions in each region.
@@ -252,7 +252,7 @@ The table provides subscription data for various customers. It includes comprehe
 
   #### ***SQL***
 
-  Queries used to analyze the data where:
+  Queries used to analyze the data are:
 
  - retrieving the total number of customers from each region.
 - find the most popular subscription type by the number of customers.
