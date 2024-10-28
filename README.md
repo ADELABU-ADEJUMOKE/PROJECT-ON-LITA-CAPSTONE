@@ -1,9 +1,5 @@
 ### LITA-CAPSTONE-PROJECT
 
-[Data Structure and Columns](#data-structure-and-columns)
-
-
-[VITUALIZATION IMAGES](#vitualization-images)
 
 
 
