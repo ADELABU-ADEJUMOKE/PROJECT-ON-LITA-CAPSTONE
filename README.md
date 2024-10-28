@@ -153,7 +153,7 @@ Each bar represents the sales for a specific order date, allowing for an analysi
 
 ****SQL:****
 
-Questions that was used to analyse the sales data where:
+Questions that was used to analyse the sales data were:
 
 - retrieve the total sales for each product category.
 - find the number of sales transactions in each region.
