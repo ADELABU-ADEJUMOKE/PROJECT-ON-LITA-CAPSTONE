@@ -2,26 +2,37 @@
 
 
 
-### **TABLE ANALYSIS FOR SALES DATA** : 
+#### **TABLE ANALYSIS FOR SALES DATA** : 
 
- ### ***Data Structure and Columns***
+ #### ***Data Structure and Columns***
 
-- #### ***ORDER ID: Unique Identifer for each sales transaction***.
+- #### ***ORDER ID***:
+  Unique Identifer for each sales transaction.
 
-- #### ***CUSTOMER ID: ID representing Individual customers***.
+- #### ***CUSTOMER ID***:
+  ID representing Individual customers.
 
-- #### ***PRODUCT:Type of product purchased were Shoes, Jacket, Shirt, Hat, Gloves and Socks***.
+- #### ***PRODUCT***:
+ Type of product purchased were Shoes, Jacket, Shirt, Hat, Gloves and Socks.
 
-- #### ***REGION: The region where product was sold were South, North, East and West***.
+- #### ***REGION***:
+  The region where product was sold were South, North, East and West.
 
-- #### ***ORDER DATE: Date of the order,which include the day, month and year***.
+- #### ***ORDER DATE***:
+  Date of the order,which include the day, month and year.
 
-- #### ***QUANTITY: Number of items sold per transaction***.
+- #### ***QUANTITY***:
+ Number of items sold per transaction.
 
-- #### ***UNIT PRICE: price per unit of the product***.
+- #### ***UNIT PRICE***:
+  price per unit of the product.
 
-- #### ***SALES: Total sales amount which I calculated as Quantity * Unit Price***
-
+- #### ***SALES***:
+   Total sales amount which I calculated as
+  
+```
+  Quantity * Unit Price.
+```
 
 
 #### TOOLS USED FOR VIRTUALIZATION:
@@ -41,7 +52,7 @@
 
    - The table explains the sales for each product by region as well as the total sales.
   
-   ### ***Key Observations***:
+   #### ***Key Observations***:
   - The **South** region has the highesr total sales at ***$927,820*** followed by ***East*** at ***$546,300***.
   - ***Shoes*** and ***Shirt*** are the top selling items with total sales of ***$613,380*** and ***$485,600*** respectively.
   - The ***West*** region shows the Lowest contribution overall, with products like ***Gloves*** and ***Hat*** having minimal sales.
@@ -49,7 +60,7 @@
 2. #### ***Line Chart: Average of Sales by Order Date***:
  - This line graph visualizes how the sales average fluctuates over time from ***April 2023 to July 2024***.
   
-     ### ***Key Observations***:
+     #### ***Key Observations***:
   - The highest sales average occurred in ***April 2024*** at ***$600***, Indicating a peak in sales during that time.
   - The lowest point of sales was in ***June 2023*** with ***$100*** as average sales.
   - Sales show periodic spikes, possibly related to seansonal and promotional events, leading to these fluctuations.
@@ -57,7 +68,7 @@
  3. #### ***Product Sales (Bar Chart): Unit Price Impact on Sales***:
  - The bar chart Visualizes the Impact of unit price on total sales, showing which price points contribute the most to overall revenue.
 
-   ### ***Key Observations***:
+   #### ***Key Observations***:
  - ***Shoes*** and ***Shirts*** Largest significant contributions of ***$620,200*** and ***$358,440*** units respectively.
  - ***Socks*** and ***Jacket*** have the least Impact, contributing only around ***$180,785*** and ***$208,230*** units.
 
@@ -94,7 +105,7 @@ The tables also highlight the products with the highest and lowest sales:
 
 ***Identification of High-Performing Products***: By analyzing the tables, we can see the products that is driving the most revenue. Shoes being the top seller suggests they should be a focal point for sales strategies.
 
-***Recognition of Underperforming Products***: Socks being the lowest seller indicates areas that may need reevaluation or targeted marketing efforts to boost sales.
+***Recognition of Underperforming Products***: **Socks** being the lowest seller indicates areas that may need reevaluation or targeted marketing efforts to boost sales.
 
 ***Regional Analysis***: The data shows where the sales are strongest geographically. The South region’s high sales mean strategies used there could be analyzed and potentially applied to other regions.
 
@@ -110,7 +121,7 @@ The tables also highlight the products with the highest and lowest sales:
 
 - This bar chart compares the total sales of different products across the years 2023 and 2024.
 
-- The x-axis represents the products (Glove, Hat, Jacket, Shirt, Shoe, Socks).
+- The x-axis represents the products ***(Glove, Hat, Jacket, Shirt, Shoe, Socks).***
 
 - The y-axis represents the total sales in units.
 
@@ -138,7 +149,7 @@ The line connects the sales data points for each region, providing a visual tren
 Each bar represents the sales for a specific order date, allowing for an analysis of sales trends over time.
 
 
-****SQL****
+****SQL:****
 
 Questions that was used to analyse the sales data where:
 
@@ -182,14 +193,15 @@ Questions that was used to analyse the sales data where:
 ![Screenshot 2024-10-25 013013](https://github.com/user-attachments/assets/b2e1d213-5550-4905-a807-67166d1da66b)
 
 
-![Screenshot 2024-10-25 013142](https://github.com/user-attachments/assets/92667ffa-4e75-4c29-9653-a19d500a9275)
+
+![Screenshot 2024-10-25 013219](https://github.com/user-attachments/assets/d2a53113-6a2a-4b6d-941d-4272573b2ab7)
 
 
 
 
 
-#### ***Conclusion:*** 
-  ##### From analyzing the sales data, It indicates that ***North*** region and the products **Socks** and **Shirts** are the key drivers of total sales, There is a clear increase in sales around **February 2024** and unit price seems to have a substsantial impact on the total sales volume. The increase in sales of products during specific period shows that the higher demand of product is based on seasons.
+### ***Conclusion:*** 
+   From analyzing the sales data, It indicates that ***North*** region and the products **Socks** and **Shirts** are the key drivers of total sales, There is a clear increase in sales around **February 2024** and unit price seems to have a substsantial impact on the total sales volume. The increase in sales of products during specific period shows that the higher demand of product is based on seasons.
 
   
 ---
@@ -201,19 +213,20 @@ Questions that was used to analyse the sales data where:
 
 The table provides subscription data for various customers. It includes comprehensive details about various aspects of subscriptions, highlighting key financial and subscription status information. Here’s the detailed breakdown:
 
-Subscription Details
-SubscriptionType:
+#### ***Subscription Details***
 
-***Value***: Basic,Standard, Premium 
+ ****SubscriptionType:****
+
+ ****Basic, Standard, Premium****
 
 ***SubscriptionEnd:***
  This column shows the end date of each subscription. All entries have the different end date.
 
- #### ****TOOLS USED FOR VISUALIZATION AND ANALYZING THE TABLE:***
+ #### ****TOOLS USED FOR VISUALIZATION AND ANALYZING THE TABLE:****
 
-1. #### ***POWER BI***
-2. #### **EXCEL**
-3. ### ***STRUCTURED QUERY LANGUAGE(SQL)***
+1. ##### **POWER BI**
+2. ###### **EXCEL**
+3. ##### **STRUCTURED QUERY LANGUAGE(SQL)**
 
    
 
@@ -226,7 +239,7 @@ SubscriptionType:
 - Total Number of Subscribers: ***18,612***
 - Total Number of Subscribers who Cancelled:***15,175***
 - Average Quarterly Revenue per Customer: ***$1,999***
-- A slicer tool that contains the different subcription type, which help to analyze each visualization.
+- A slicer tool that contains the different subcription type, which help to analyze each visuals.
 
 
 ##### ***Excel***
@@ -235,9 +248,9 @@ SubscriptionType:
   - Top ***ten*** customers by revenue.
   - duration of subscription by Revenue.
 
-  #### ***SQL****
+  #### ***SQL***
 
-  Queries to answer and analyze the data was written 
+  Queries used to analyze the data where:
 
  - retrieving the total number of customers from each region.
 - find the most popular subscription type by the number of customers.
@@ -248,28 +261,29 @@ SubscriptionType:
 - find the top 3 regions by subscription cancellations.
 - find the total number of active and canceled subscriptions.
 
+  #### DATA EXPLANATION:
   
-2. ### ***Revenue by Subscription Type***
+1. ### ***Revenue by Subscription Type***
 
 - Bacic Subscription: Generates the highest revenue.
 - Premium Subscription: Generates moderate revenue.
 - Standard Subscription: Generates the least revenue.
   
-3. #### ***Revenue by Region***
+2. #### ***Revenue by Region***
   
 - East Region: Contributes the most revenue with $16,958,763.
 - West Region: Second highest revenue contributor.
 - North Region: Third highest revenue contributor.
 - South Region: Contributes the least revenue.
 
-4. ####  ***Top Five Customers by Revenue***
-A pie chart shows the top five customers which was filtered based on customers who did not cancel their subscription, Indicating **Liam** as the leading top customer with the highest revenue of ***$3,437,444*** spent in subscription.
+3. ####  ***Top Five Customers by Revenue***
+The charts and query shows the top five customers which was filtered based on customers who did not cancel their subscription, Indicating **Liam** as the leading top customer with the highest revenue of ***$3,437,444*** spent in subscription.
 
 
 
-### ***Visualization**
+### ***Visualization***
 
-****POWER BI***
+****POWER BI****
 
 ![WhatsApp Image 2024-10-26 at 22 15 18_d3e7fde5](https://github.com/user-attachments/assets/3a0b1637-b645-4875-8c45-ac07bebb64c4)
 
@@ -294,7 +308,7 @@ A pie chart shows the top five customers which was filtered based on customers w
 
 
 
-****SQL***
+****SQL****
 
 
 
@@ -316,6 +330,7 @@ A pie chart shows the top five customers which was filtered based on customers w
 
 
 #### ***Conclusion***
+
 The dashboard provides a comprehensive overview of customer subscriptions and revenue distribution. Key insights include:
 
 - The ***Basic*** subscription type is the most lucrative.
@@ -325,7 +340,7 @@ The dashboard provides a comprehensive overview of customer subscriptions and re
   
 ***Basic Subscription Dominance***: The Basic subscription leads significantly in revenue, showing it is the most popular and widely used.
 
-***Premium and Standard Segmentation***: Both Premium and Standard have moderate revenues, indicating more specific, potentially niche markets.
+***Premium and Standard Segmentation***: Both Premium and Standard have moderate revenues, indicating more specific,targeted subscription.
 
 ***Subscription Periods and Trends***: Many Basic subscriptions start and end within the same month or a short period, suggesting possible monthly renewals. 
 Premium and Standard show more diverse start and end dates, suggesting varied customer needs or trial periods.
