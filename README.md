@@ -217,11 +217,11 @@ The table provides subscription data for various customers. It includes comprehe
 
 #### ***Subscription Details***
 
- ****SubscriptionType:****
+ ****Subscription Type:****
 
  ****Basic, Standard, Premium****
 
-***SubscriptionEnd:***
+***Subscription End:***
  This column shows the end date of each subscription. All entries have the different end date.
 
  #### ****TOOLS USED FOR VISUALIZATION AND ANALYZING THE TABLE:****
