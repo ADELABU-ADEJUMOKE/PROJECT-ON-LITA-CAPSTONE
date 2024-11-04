@@ -227,7 +227,7 @@ The table provides subscription data for various customers. It includes comprehe
  #### ****TOOLS USED FOR VISUALIZATION AND ANALYZING THE TABLE:****
 
 1. ##### **POWER BI**
-2. ###### **EXCEL**
+2. ##### **EXCEL**
 3. ##### **STRUCTURED QUERY LANGUAGE(SQL)**
 
    
