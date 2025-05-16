@@ -84,7 +84,7 @@
 #### ***Visualization explanation For Excel***:
 
 
-  **TABLE**. 
+  **TABLE**
 
  
 ***Peak in Sales***
